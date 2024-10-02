@@ -1,20 +1,20 @@
 # Seismic Reflection Termination Attribute (SRT-Ai)
-## Official repository for the paper " Toward Automating Stratigraphic Interpretation: Identifying Seismic Reflection Terminations Using Deep Learning "
+## Official repository for the paper "Toward Automating Stratigraphic Interpretation: Identifying Seismic Reflection Terminations Using Deep Learning"
 
-###Abstract
+### Abstract
 AAA
 
-###Example image
+### Example image
 AAA
 
-###Introduction
+### Introduction
 AAA
 
-###Licence
+### Licence
 AAA
 
-###Citation
+### Citation
 AAA
 
-##Acknowledgement
+## Acknowledgement
 AAA
