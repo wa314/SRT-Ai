@@ -1,15 +1,15 @@
-name: SRT_AI  # Replace with your desired environment name
+name: SRT_AI  
 channels:
   - defaults
   - conda-forge
 dependencies:
-  - python=3.9  # Specify the Python version, adjust as needed
+  - python=3.9 
   - tensorflow
   - scipy
   - scikit-image
-  - pillow  # PIL is installed via pillow
+  - pillow  
   - scikit-learn
   - seaborn
-  - pip  # Ensure pip is installed to handle Bruges
+  - pip  
   - pip:
       - bruges
