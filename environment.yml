@@ -1,15 +1,15 @@
-name: SRT_AI  
+name: SRT_AI
 channels:
   - defaults
   - conda-forge
 dependencies:
-  - python=3.9 
-  - tensorflow
+  - python=3.9
+  - tensorflow=2.9.1
   - scipy
   - scikit-image
-  - pillow  
+  - pillow
   - scikit-learn
   - seaborn
-  - pip  
+  - pip
   - pip:
       - bruges
